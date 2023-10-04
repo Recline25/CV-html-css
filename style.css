@@ -1,0 +1,88 @@
+h2 {
+    color :darkblue;
+}
+
+h3{
+    color : darkblue;
+}
+
+h1{
+    color: darkblue;
+}
+
+.head{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: blue solid 5px;
+    border-width: 0px 0px 5px;
+}
+
+.picture-me{
+    border-radius: 50%;
+}
+
+li{
+    color :black;
+}
+
+div{
+    text-align: center;
+}
+
+.skills{
+    display : grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr ;
+    border: blue solid 5px;
+    border-width: 0px 0px 5px 0px;
+}
+
+.other{
+    grid-column: span 2;
+}
+
+.profile{
+    border: blue solid 5px;
+    border-width: 0px 0px 5px;
+    padding-bottom: 10px;
+}
+
+.education{
+    border: blue solid 5px;
+    border-width: 0px 0px 5px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+}
+
+.experience{
+    border: blue solid 5px;
+    border-width: 0px 0px 5px;
+
+}
+
+.busy{
+    border: blue solid 5px;
+    border-width: 0px 0px 5px;
+}
+
+.learned{
+    border: blue solid 5px;
+    border-width: 0px 5px 5px 5px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.education{
+    display: block;
+}
+
+img{
+    border: 5px solid darkblue ;
+}
+
